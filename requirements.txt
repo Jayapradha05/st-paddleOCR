@@ -3,4 +3,4 @@ groq
 paddleocr
 paddlepaddle
 python-dotenv
-opencv-python
+opencv-python-headless
