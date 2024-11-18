@@ -3,4 +3,5 @@ groq
 paddleocr
 paddlepaddle
 python-dotenv
-opencv-python-headless==4.5.1.48
+opencv-python
+opencv-python-headless
